@@ -24,7 +24,7 @@ Available material to our paper can be found here:
 If you use this work or dataset, please cite:
 ```latex
 @inproceedings{sgl,
-  title={Self-Guided Multiple Instance Learning forWeakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs},
+  title={Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic Disease Classification and Localization in Chest Radiographs},
   author={Seibold, Constantin and Kleesiek, Jens and Schlemmer, Heinz-Peter and Stiefelhagen, Rainer},
   booktitle={Asian Conference on Computer Vision},
   year={2020},
