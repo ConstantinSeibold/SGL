@@ -1,9 +1,9 @@
 # Self-guiding Loss for Multiple Instance Learning
 ![Title Image](./imgs/supervision_types.png)
 
-The Self-Guiding Loss is a novel multiple-instance learning loss which integrates artificial supervision based on the networks predictions into its formulation in an online step. The SGL can be seen as an extension to the standard MIL-setting. This repository contains the loss comparison studies on the MNIST-Bags dataset of the ACCV paper [**Self-Guided Multiple Instance Learning forWeakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs**](https://arxiv.org).
+The Self-Guiding Loss is a novel multiple-instance learning loss which integrates artificial supervision based on the networks predictions into its formulation in an online step. The SGL can be seen as an extension to the standard MIL-setting. This repository contains the loss comparison studies on the MNIST-Bags dataset of the ACCV paper [**Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic Disease Classification and Localization in Chest Radiographs**](https://arxiv.org).
 
-> [**Self-Guided Multiple Instance Learning forWeakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs**](https://arxiv.org)<br>
+> [**Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic Disease Classification and Localization in Chest Radiographs**](https://arxiv.org)<br>
 > Constantin Seibold, Jens Kleesiek, Heinz-Peter Schlemmer, Rainer Stiefelhagen<br>
 > 
 >
