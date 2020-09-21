@@ -17,7 +17,7 @@ Available material to our paper can be found here:
 | Path | Description
 | :--- | :----------
 | [SGL](https://github.com/ConstantinSeibold/SGL) | Main folder.
-| &boxvr;&nbsp;[MNIST-Bags_Experiments](https://github.com/ConstantinSeibold/SPL/tree/master/MNIST-Bags_Experiments) | Contains the proposed loss formulation for both Tensorflow and Pytorch
+| &boxvr;&nbsp;[MNIST-Bags_Experiments](./MNIST-Bags_Experiments) | Contains the proposed loss formulation for both Tensorflow and Pytorch
 
 
 ## Citation
