@@ -25,7 +25,7 @@ If you use this work or dataset, please cite:
 ```latex
 @InProceedings{sgl,
     author    = {Seibold, Constantin and Kleesiek, Jens and Schlemmer, Heinz-Peter and Stiefelhagen, Rainer},
-    title     = {Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs},
+    title     = {Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic Disease Classification and Localization in Chest Radiographs},
     booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
     month     = {November},
     year      = {2020}
