@@ -23,10 +23,10 @@ Available material to our paper can be found here:
 ## Citation
 If you use this work or dataset, please cite:
 ```latex
-@inproceedings{sgl,
-  title={Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic Disease Classification and Localization in Chest Radiographs},
-  author={Seibold, Constantin and Kleesiek, Jens and Schlemmer, Heinz-Peter and Stiefelhagen, Rainer},
-  booktitle={Asian Conference on Computer Vision},
-  year={2020},
-  organization={Springer}
+@InProceedings{sgl,
+    author    = {Seibold, Constantin and Kleesiek, Jens and Schlemmer, Heinz-Peter and Stiefelhagen, Rainer},
+    title     = {Self-Guided Multiple Instance Learning for Weakly Supervised Thoracic DiseaseClassification and Localizationin Chest Radiographs},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
 }
